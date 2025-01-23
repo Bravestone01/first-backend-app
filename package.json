@@ -1,0 +1,19 @@
+{
+  "name": "amjybackend",
+  "version": "1.0.0",
+  "description": "a basic app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "amjy"
+  ],
+  "author": "syed mujtaba",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
